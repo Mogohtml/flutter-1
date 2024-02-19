@@ -1,16 +1,6 @@
-# untitled48
+# Практическая работа
 
-A new Flutter project.
 
-## Getting Started
+## Скрин приложения
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="657" alt="Снимок экрана 2024-02-19 в 17 47 28" src="https://github.com/Mogohtml/flutter-1/assets/137728678/5e848f68-aa4d-4023-ba1e-052e27876f1a">
